@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Brian Hassel"
-description              : "An amazing website."
+description              : "Amazing website."
 url                      : "https://brianhassel.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
